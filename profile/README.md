@@ -1,5 +1,5 @@
 # FEKT-SCARA
-FEKT-SCARA is Open Source scara 3D printer project which provides all necessary software, configuration files, models and bill of material needed to build working machine. This project (repositories in this github organization) is result of bachelor thesis at DEET FEEC BUT (Department of Electrical and Electronic Technology at Faculty of Electrical Engineering and Communication at Brno University of Technology).
+FEKT-SCARA is Open Source scara 3D printer project which provides all necessary software, configuration files, models and bill of material needed to build working machine. This project (repositories in this github organization) is result of bachelor thesis at DEET FEEC BUT (Department of Electrical and Electronic Technology at Faculty of Electrical Engineering and Communication at Brno University of Technology). Project was inspired by [x-scara](https://github.com/madl3x/x-scara) project.
 
 ![fekt-scara](https://github.com/user-attachments/assets/78e95a77-3390-41cb-ac41-e033b6de4b5c)
 
